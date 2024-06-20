@@ -15,6 +15,6 @@ When to Use var, let, or const?
 
 let price= 210;
 
-const name='Asib';
+const id=2024;
 
-console.log(price,name);
+console.log(price,id);
